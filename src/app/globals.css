@@ -58,6 +58,9 @@
   .ds-bg-main {
     background-color: var(--color-main);
   }
+  .ds-bg-best {
+    background-color: var(--color-best);
+  }
   /* ================= COLORS ================= */
   .ds-text-white {
     color: var(--color-white);

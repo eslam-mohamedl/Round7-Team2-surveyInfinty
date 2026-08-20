@@ -6,7 +6,7 @@
   /* light Variant */
   :root {
     /* Brand Colors */
-    --color-primary: #00b7c1;
+    --color-best: #7616ec;
     --color-primary-200: #dbf8fa;
     --color-primary-400: #f2f9f8;
 
@@ -16,9 +16,9 @@
     --color-form: #eff0f3;
 
     /* Text Colors */
-    --color-main: #00b7c1;
+    --color-main: #7616ec;
     --color-white: var(--color-bg-alt);
-    --color-primary: #1e1f24;
+    --color-primary-200: #1e1f24;
     --color-secondary: #62636c;
     --color-disabled: #80828d;
 
